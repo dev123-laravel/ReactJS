@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Vũ An Bình
+          Vũ An Bình Reacjs
         </p>
       </header>
     </div>
